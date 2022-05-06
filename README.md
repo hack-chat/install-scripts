@@ -16,6 +16,12 @@ or
 wget -qO- https://raw.githubusercontent.com/hack-chat/install-scripts/main/hcInstall.sh | sudo -E bash -
 ```
 
+then
+
+```
+npm run start
+```
+
 ## Windows
 
 ```

@@ -27,4 +27,3 @@ git --version
 git clone https://github.com/hack-chat/main.git hackchat
 cd hackchat
 npm install
-npm run start
