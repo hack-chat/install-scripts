@@ -7,13 +7,13 @@ The scripts contained in this repo can be used to easily install hack.chat on a 
 ## Ubuntu or Debian
 
 ```
-curl -fsSL https://raw.githubusercontent.com/hack-chat/install-scripts/main/hcInstall.sh | sudo -E bash -
+curl -fsSL https://raw.githubusercontent.com/hack-chat/install-scripts/main/hcInstall.sh | bash -
 ```
 
 or
 
 ```
-wget -qO- https://raw.githubusercontent.com/hack-chat/install-scripts/main/hcInstall.sh | sudo -E bash -
+wget -qO- https://raw.githubusercontent.com/hack-chat/install-scripts/main/hcInstall.sh | bash -
 ```
 
 then
